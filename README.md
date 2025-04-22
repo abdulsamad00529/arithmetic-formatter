@@ -12,10 +12,8 @@ This is a simple Python project that takes a list of arithmetic problems and for
 
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
 
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    ----
-  730      3799      88      172
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/a8a73cc7-f45c-4c40-9dad-af81dd00af5f" />
+
   
 ### ✅ How to Run
 python arithmetic_arranger.py
