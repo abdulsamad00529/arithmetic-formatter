@@ -12,15 +12,14 @@ This is a simple Python project that takes a list of arithmetic problems and for
 
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True)
 
-### diff
-   32      3801      45      123 ###
-+ 698    -    2    + 43    +  49 ###
-  -----    ------    ----    ----###
-   730      3799      88      172
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    ----
+  730      3799      88      172
   
 ### ✅ How to Run
-### bash
 python arithmetic_arranger.py
+
 ### 🏆 Project Requirement
 This project was created as part of the freeCodeCamp Scientific Computing with Python Certification.
 
